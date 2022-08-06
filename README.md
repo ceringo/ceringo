@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=ceringo" height="20" alt="ceringo"/>
 
 <h2 align="center">
-    <img src="https://giphy.com/clips/ralph-8CYD7zQOYECt2UolVp" width="50"/>
+   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
     🚀 Full Stack Developer 🚀
     <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
 </h2>
